@@ -23,6 +23,7 @@ function IndexApp() {
     <Router basename={process.env.PUBLIC_URL}>
        <Routes>
        <Route path='/' element={<Home/>} />
+       <Route path='/#/' element={<Home/>} />
        <Route path='/home' element={<Home/>} />
        <Route path='/Home' element={<Home/>} />
        <Route path='/Features' element={<Home/>} />
