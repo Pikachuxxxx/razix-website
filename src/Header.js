@@ -53,13 +53,13 @@ export default function Simple() {
       <Box bg={useColorModeValue('gray.100', 'gray.900')} px={4}>
         <Flex h={16} alignItems={'center'} justifyContent={'center'}>
             <HStack spacing='10px' alignItems={'center'} justifyContent={'center'}>
-                <Link href='/' style={{ textDecoration: 'none' }}>
+                <Link href='/razix-website/' style={{ textDecoration: 'none' }}>
                     <Box><Image src={Logo} alt='Dan Abramov' boxSize="50px"/></Box>
                 </Link>
-                <Link href='/' style={{ textDecoration: 'none' }}>
+                <Link href='/razix-website/' style={{ textDecoration: 'none' }}>
                     <Text fontWeight="Semi Bold" fontSize='34' color="#FFB536"> Razix </Text>
                 </Link>
-                <Link href='/' style={{ textDecoration: 'none' }}>
+                <Link href='/razix-website/' style={{ textDecoration: 'none' }}>
                     <Text as="i" fontWeight="light" fontSize='26' color="6B6B6B"> Engine</Text>
                 </Link>
             </HStack>

@@ -20,7 +20,7 @@ import ReleaseNotes from './ReleaseNotes'
 
 function IndexApp() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/razix-website">
        <Routes>
        <Route path='/' element={<Home/>} />
        <Route path='/#/' element={<Home/>} />
@@ -38,7 +38,7 @@ root.render(
     <React.StrictMode>
         <ChakraProvider theme={theme}>
             <Header />
-            <Home />
+            <IndexApp />
         </ChakraProvider>
     </React.StrictMode>
 );
