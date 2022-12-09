@@ -20,15 +20,14 @@ import ReleaseNotes from './ReleaseNotes'
 
 function IndexApp() {
   return (
-    <Router basename="/razix-website">
+    <Router>
        <Routes>
-       <Route path='/' element={<Home/>} />
-       <Route path='/#/' element={<Home/>} />
-       <Route path='/home' element={<Home/>} />
-       <Route path='/Home' element={<Home/>} />
-       <Route path='/Features' element={<Home/>} />
-       <Route path='/Downloads' element={<Downloads/>} />
-       <Route path='/releasenotes' element={<ReleaseNotes/>} />
+           <Route path='/' element={<Home/>} />
+           <Route path='/home' element={<Home/>} />
+           <Route path='/Home' element={<Home/>} />
+           <Route path='/Features' element={<Home/>} />
+           <Route path='/Downloads' element={<Downloads/>} />
+           <Route path='/releasenotes' element={<ReleaseNotes/>} />
        </Routes>
    </Router>
   );

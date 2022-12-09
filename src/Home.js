@@ -59,7 +59,7 @@ function Home() {
                         </Text>
                     </Link>
 
-                    <Link align='center' fontSize={14} color="#FFFFFF" fontWeight="Light" href='/Downloads'>
+                    <Link align='center' fontSize={14} color="#FFFFFF" fontWeight="Light" href='/#/Downloads'>
                         <Text p={5} as='u'>
                                 Archive Builds
                         </Text>

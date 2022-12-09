@@ -40,7 +40,7 @@ const NavLink = ({ children }: { children: ReactNode }) => (
               color: 'white',
               boxShadow: 'none',
           }}
-    href={children}>
+    href={"#/" + children}>
     {children}
   </Link>
 );
