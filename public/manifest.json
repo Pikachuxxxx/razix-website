@@ -1,0 +1,20 @@
+{
+  "short_name": "Razix Engine",
+  "name": "Razix Engine",
+  "icons": [
+    {
+      "src": "RazixLogo128.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "RazixLogo128.ico",
+      "type": "image/x-icon",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
