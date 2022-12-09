@@ -1,7 +1,7 @@
 {
   "name": "razix-website",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://pikachuxxxx.github.io/razix-website",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.13",

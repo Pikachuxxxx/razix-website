@@ -38,7 +38,7 @@ root.render(
     <React.StrictMode>
         <ChakraProvider theme={theme}>
             <Header />
-            <IndexApp />
+            <Home />
         </ChakraProvider>
     </React.StrictMode>
 );
