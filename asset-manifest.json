@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Razix/static/css/main.07f58885.css",
-    "main.js": "/Razix/static/js/main.811ac3c4.js",
+    "main.js": "/Razix/static/js/main.5d5d3125.js",
     "static/media/bg2.png": "/Razix/static/media/bg2.b6a4022d463d98e50260.png",
     "static/media/fira-code-all-500-normal.woff": "/Razix/static/media/fira-code-all-500-normal.f7083bb96f76675d4b91.woff",
     "static/media/fira-code-all-400-normal.woff": "/Razix/static/media/fira-code-all-400-normal.c050f0ce726c76d279c8.woff",
@@ -34,10 +34,10 @@
     "static/media/fira-code-greek-ext-700-normal.woff2": "/Razix/static/media/fira-code-greek-ext-700-normal.72e608716d920962a358.woff2",
     "index.html": "/Razix/index.html",
     "main.07f58885.css.map": "/Razix/static/css/main.07f58885.css.map",
-    "main.811ac3c4.js.map": "/Razix/static/js/main.811ac3c4.js.map"
+    "main.5d5d3125.js.map": "/Razix/static/js/main.5d5d3125.js.map"
   },
   "entrypoints": [
     "static/css/main.07f58885.css",
-    "static/js/main.811ac3c4.js"
+    "static/js/main.5d5d3125.js"
   ]
 }
