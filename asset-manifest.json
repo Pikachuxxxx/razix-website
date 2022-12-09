@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/razix-website/static/css/main.83136daf.css",
-    "main.js": "/razix-website/static/js/main.c127d0a0.js",
+    "main.js": "/razix-website/static/js/main.37f99a80.js",
     "static/media/bg2.png": "/razix-website/static/media/bg2.b6a4022d463d98e50260.png",
     "static/media/fira-code-all-500-normal.woff": "/razix-website/static/media/fira-code-all-500-normal.f7083bb96f76675d4b91.woff",
     "static/media/fira-code-all-400-normal.woff": "/razix-website/static/media/fira-code-all-400-normal.c050f0ce726c76d279c8.woff",
@@ -34,10 +34,10 @@
     "static/media/fira-code-greek-ext-700-normal.woff2": "/razix-website/static/media/fira-code-greek-ext-700-normal.72e608716d920962a358.woff2",
     "index.html": "/razix-website/index.html",
     "main.83136daf.css.map": "/razix-website/static/css/main.83136daf.css.map",
-    "main.c127d0a0.js.map": "/razix-website/static/js/main.c127d0a0.js.map"
+    "main.37f99a80.js.map": "/razix-website/static/js/main.37f99a80.js.map"
   },
   "entrypoints": [
     "static/css/main.83136daf.css",
-    "static/js/main.c127d0a0.js"
+    "static/js/main.37f99a80.js"
   ]
 }
