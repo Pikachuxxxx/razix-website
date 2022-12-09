@@ -20,7 +20,7 @@ import ReleaseNotes from './ReleaseNotes'
 
 function IndexApp() {
   return (
-    <Router basename="/">
+    <Router basename={process.env.PUBLIC_URL}>
        <Routes>
        <Route path='/' element={<Home/>} />
        <Route path='/home' element={<Home/>} />
