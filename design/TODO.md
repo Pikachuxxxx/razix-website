@@ -18,9 +18,8 @@
     - [ ] Engine Intro + STL + Memory + Physics + other stuff
     - [ ] Rendering features Demo
     - [ ] QT Editor Demo
-- [ ] Blog Design in Figma
-- [ ] Blog Posts main page desing
-- [ ] Blog post desing (data + time to read + keywords)
+- [ ] Blog posts grid Design in Figma
+- [ ] Post design in Figma (data + time to read + keywords)
 - [ ] Blogs page (see if we can render .md files into it) + Define format for parsing some info from it like title and data etc.
 - [x] Set Current page as Home Page
 - [x] Downloads Page will have list of all releases (choosing latest release redirect to to Home Page??? Not sure about this yet)

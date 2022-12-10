@@ -12,12 +12,13 @@ import {
 } from "react-router-dom";
 
 import './index.css';
-import Home from './Home';
 import Header from "./Header"
 import theme from './theme'
+import Home from './Home';
+import Features from './Features'
 import Downloads from './Downloads'
+import Blog from './Blog'
 import RoadMap from './RoadMap'
-import ReleaseNotes from './ReleaseNotes'
 
 function IndexApp() {
   return (
@@ -26,8 +27,9 @@ function IndexApp() {
            <Route path='/' element={<Home/>} />
            <Route path='/home' element={<Home/>} />
            <Route path='/Home' element={<Home/>} />
-           <Route path='/Features' element={<Home/>} />
+           <Route path='/Features' element={<Features/>} />
            <Route path='/Downloads' element={<Downloads/>} />
+           <Route path='/Blog' element={<Blog/>} />
            <Route path='/RoadMap' element={<RoadMap/>} />
        </Routes>
    </Router>
