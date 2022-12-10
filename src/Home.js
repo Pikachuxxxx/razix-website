@@ -35,7 +35,7 @@ function Home() {
                 <VStack w='80%' backgroundSize='100%' backgroundImage={bg}
                       backgroundPosition="center"
                       backgroundRepeat="no-repeat" borderRadius="50px"
-                      spacing={5}
+                      spacing={0}
                       >
                     <Text textAlign='center' fontSize='60' fontWeight="Bold" fontFamily="sans-serif" bgGradient='linear(to-r, #ffffff, #2279FC)' bgClip='text'>
                         Redefining
@@ -59,7 +59,7 @@ function Home() {
                         </Text>
                     </Link>
 
-                    <Link align='center' fontSize={14} color="#FFFFFF" fontWeight="Light" href='/#/Downloads'>
+                    <Link align='center' fontSize={14} color="#FFFFFF" fontWeight="Light" href='/razix-website/#/Downloads'>
                         <Text p={5} as='u'>
                                 Archive Builds
                         </Text>

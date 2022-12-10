@@ -12,18 +12,20 @@
     - [x] List component
     - [x] Download Card component
     - [x] Add the demo cards to the list + make it customizable
-- [ ] Features - Engine Intro + STL + Memory + Physics
+- [ ] Features
+    - [ ] List out features and their organization
+    - [ ] Design in Figma (reference blender.org)
+    - [ ] Engine Intro + STL + Memory + Physics + other stuff
+    - [ ] Rendering features Demo
+    - [ ] QT Editor Demo
 - [ ] Blog Design in Figma
 - [ ] Blog Posts main page desing
 - [ ] Blog post desing (data + time to read + keywords)
-- [ ] Blogs page (see if we can render .md files into it) + Define format for parsing
-- [ ] Features list page demo
-    - [ ] Engine Features (custom STL, Memory, Vis buffer stuff etc)
-    - [ ] Tools (asset packing, Editor)
-- [ ] Set Current page as Home Page
-- [ ] Downloads Page will have list of all releases (choosing latest release redirect to to Home Page)
-- [ ] Render a RoadMap image in roadmap page
-- [ ] page Metadata + tab icon + add Changelog with Release notes link under download button
+- [ ] Blogs page (see if we can render .md files into it) + Define format for parsing some info from it like title and data etc.
+- [x] Set Current page as Home Page
+- [x] Downloads Page will have list of all releases (choosing latest release redirect to to Home Page??? Not sure about this yet)
+- [x] Render a RoadMap image in roadmap page
+- [x] page Metadata + tab icon + add Changelog with Release notes link under download button
 
 
 Add all pages as add as Coming Soon if it's empty

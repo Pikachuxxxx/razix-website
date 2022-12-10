@@ -16,6 +16,7 @@ import Home from './Home';
 import Header from "./Header"
 import theme from './theme'
 import Downloads from './Downloads'
+import RoadMap from './RoadMap'
 import ReleaseNotes from './ReleaseNotes'
 
 function IndexApp() {
@@ -27,7 +28,7 @@ function IndexApp() {
            <Route path='/Home' element={<Home/>} />
            <Route path='/Features' element={<Home/>} />
            <Route path='/Downloads' element={<Downloads/>} />
-           <Route path='/releasenotes' element={<ReleaseNotes/>} />
+           <Route path='/RoadMap' element={<RoadMap/>} />
        </Routes>
    </Router>
   );
